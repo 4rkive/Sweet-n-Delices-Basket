@@ -39,9 +39,7 @@
                 </label>
             </div>
             <div class="mb-3">
-                <label for=""> 
-                    <input type="submit" class="btn btn-success" name="confirm">
-                </label>
+                    <input type="submit" class="btn btn-success" value="Submit">
             </div>
     </form>
 </div>
